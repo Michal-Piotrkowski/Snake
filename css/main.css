@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    height: 95vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.field{
+    display: flex;
+    width: 30px;
+    height: 30px;
+    margin: 1.25px;
+    margin-top: 0;
+    background-color: #286ba1;
+    border: solid 1px #160077;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    user-select: none;
+}
